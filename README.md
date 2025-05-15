@@ -30,7 +30,7 @@ A modern implementation of the classic Snake game using Three.js, featuring 3D g
 ## 💻 Local Development
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vikas-Kain/SnakeGame.git
+   git clone https://github.com/Vikas-Kain/Snakegame.git
    ```
 2. Navigate to the project directory
 3. Start a local server (e.g., using Python):
@@ -46,7 +46,7 @@ A modern implementation of the classic Snake game using Three.js, featuring 3D g
 - Built a responsive and user-friendly interface
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Vikas-Kain/SnakeGame/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Vikas-Kain/Snakegame/issues).
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
